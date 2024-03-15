@@ -1082,6 +1082,7 @@ audio {
 	z-index: 99;
 	width: 100px;
 	height: 183px;
+	scale: 70%;
 	background-repeat: no-repeat no-repeat;
 	background-size: 100px 183px;
 }
